@@ -1,0 +1,2 @@
+#!/bin/bash
+env && echo -e "\nShell initialization files:\n  /etc/profile\n  ~/.bash_profile\n  ~/.bash_login\n  ~/.profile\n" && echo "Variables and expansions:\n  HOME: $HOME\n  USER: $USER\n  PATH: $PATH\n  SHELL: $SHELL"
